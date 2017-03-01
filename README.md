@@ -4,4 +4,4 @@ Repo for CISC 210
 Add your name below the line
 ============================
 
-Jacob Victoria
+Jacob D Victoria
